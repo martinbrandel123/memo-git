@@ -21,3 +21,14 @@ git commit -m "your commit message" ==> Pour soumettre les modifications que vou
 
 ////////////
 git config --global user.username <USerNamE> ==> Pour changer votre nom d'utilisateur Git
+
+
+///////////
+
+git checkout <commit>   permet de regarder l'historique des commits
+
+
+
+///// 
+git push       permet de pousser un repo sur github
+git clone      permet de cloner un repo github en local
